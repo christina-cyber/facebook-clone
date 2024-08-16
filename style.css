@@ -1,0 +1,43 @@
+#facebook{
+    width:325px;height: 325px;
+    position: absolute;
+    top: 70px;
+    left: 150px;
+}
+#heading{
+    position: absolute;
+    top: 250px;
+    left: 175px;
+    font-size: 28px;
+    line-height: 32px;
+    width: 500px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    
+}
+body{
+    background-color:#f0f2f5;
+}
+
+div {
+    display: inline-block;
+    width: 100px;   
+}
+.f2{
+    display: inline-block;
+}
+.f1{
+    display: inline-block;
+    margin-top: 100px;
+    position: absolute;
+    right: 200px;
+    text-align: center;
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+}
